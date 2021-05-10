@@ -1,4 +1,4 @@
-# Sabina Z  - Android Developer
+# Sabina Zis  - Android Developer
 
 ## Contacts  
 
