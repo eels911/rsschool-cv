@@ -27,7 +27,10 @@ SberBank - Frontend Developer
 
 *2018-2022*  
 Moscow Polytech University :  
-Information Technologies  
+Information Technologies 
+
+*2019-2022*
+School 21
 
 ## Languages  
 *Russian* - Native   
